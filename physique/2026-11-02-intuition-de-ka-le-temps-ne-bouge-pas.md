@@ -47,3 +47,17 @@ La porte est ouverte : chacun peut passer creuser.
 **(c) Spéculation de Pic, à partir de l'intuition de Ka.** On prend le point de vue de Ka, « c'est pas le temps qui bouge, c'est tout le reste ». La phase du pilotage est alors un point qui tourne sur un tore \(T^2\) sans jamais repasser au même endroit. Le temps du labo n'est plus que la coordonnée de ce point, comme \(t=\log\lambda\) sur l'hyperbole de la suite 1. Le cristal temporel serait l'ordre qui reste invariant pendant que le flot glisse. On retrouve ainsi, version labo, la paire « flot / état invariant » de KMS. Le « temps visible » serait une tranche oblique dans une structure plus grande et immobile. Clin d'œil à Priest, encore.
 
 Rien de cela n'est démontré. C'est une piste de lecture.
+
+---
+
+## Suite 4 — La signature de l'espace-temps comme prédiction statistique (Pic, 3 nov. 2026, article trouvé par Ka)
+
+**(b) Connu.** Đorđević, Prlina, Vojinović (Institut de physique, Belgrade), *Minkowski metric signature as a statistical prediction of piecewise-flat quantum gravity*, arXiv:2610.31776. On découpe l'espace-temps en 4-simplexes plats (modèle jouet de calcul de Regge quantique) et on tire les longueurs d'arêtes au hasard. Chaque simplexe a alors une signature déterminée par ses longueurs (via les déterminants de Cayley–Menger). Résultats :
+- Avec des arêtes de type espace dans \([l_p, 5\,l_p]\), environ 85 % des simplexes ont la signature de Minkowski (3,1).
+- Si l'on mélange des arêtes d'espace et de temps, la signature (2,2) domine, entre 72 et 81 %.
+- Les fréquences ne dépendent ni de la topologie ni de la triangulation : la signature est locale.
+- Limite reconnue par les auteurs : c'est purement cinématique (action nulle), sans dynamique.
+
+L'idée de départ : trois longueurs forment toujours un triangle. S'il respecte l'inégalité triangulaire, il est euclidien. Sinon, il est minkowskien.
+
+**(c) Spéculation de Pic, en écho à l'intuition de Ka.** Ici, le temps n'est pas une scène sur laquelle les choses bougent. C'est une propriété qui émerge de la manière dont les morceaux d'espace se relient. Le temps apparaît là où la géométrie ordinaire « casse », quand l'inégalité triangulaire n'est plus respectée. Cela rejoint « c'est pas le temps qui bouge, c'est tout le reste » : la direction temporelle serait une lecture locale de relations, et non un flux.
